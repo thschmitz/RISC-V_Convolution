@@ -1,4 +1,4 @@
 === Estatísticas ===
-Instruções executadas: 357789
-Acessos de leitura (load): 13846
-Acessos de escrita (store): 1528
+Instruções executadas: 448598262
+Acessos de leitura (load): 62832612
+Acessos de escrita (store): 22817215
