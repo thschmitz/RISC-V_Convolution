@@ -2,3 +2,5 @@
 Instruções executadas: 448598262
 Acessos de leitura (load): 62832612
 Acessos de escrita (store): 22817215
+
+
